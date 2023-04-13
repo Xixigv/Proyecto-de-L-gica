@@ -10,3 +10,5 @@ To do
 *   Poder leer las proposiciones
 *   Poder generar las tablas de verdad en base a eso
 *   Las funciones para hacerlo ya estan allí pero falta de hecho hacerlo
+* Mejorar documentación
+
