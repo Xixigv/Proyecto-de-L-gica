@@ -18,7 +18,7 @@ Proposiciones pide al usuario lo siguiente:
   * Agrega los componentes a una lista
   * Luego le pide al usuario que escoja alguna accion para aplicar a los componentes
   * Le pide al usuario que ingrese la accion (por medio de un menu) 
-  * Le pidee al usuario el componente de la lista (haciendo uso de indices)
+  * Le pide al usuario el componente de la lista (haciendo uso de indices)
   
   ...........................
   
