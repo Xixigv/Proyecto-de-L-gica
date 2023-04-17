@@ -4,12 +4,17 @@ def operatorStringGenerator(operatorValue):
 #   0---> ∧     for and
 #   1---> v     for or
 #   and thats it for the time being
+
     if operatorValue==0:
         return "∧"
     elif operatorValue==1:
         return "v"
+    elif operatorValue==5:
+        return "~"
+    
     else:
         pass
+    
 def parenthesisGiver(expression):
     return "("+expression+")"
 def expressionGenerator(value1,value2,operator):
